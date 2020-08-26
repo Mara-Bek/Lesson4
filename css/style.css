@@ -1,0 +1,22 @@
+.title-1{
+	color: red; 
+	background-color: pink;
+}
+.title-2{
+	color: blue;
+	background-color: lightblue;
+}
+.title-3{ color: pink ;
+background-color: yellow; }
+span{
+	color: blue;
+	background-color: pink;
+}
+#text-4{
+	color: white;
+}
+h2{ 
+    color: aqua; }
+    p{
+    	background: #004d99;
+    }

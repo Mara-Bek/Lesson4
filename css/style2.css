@@ -1,0 +1,180 @@
+a{
+	text-decoration: none;
+}
+ul{
+   list-style: none;
+}
+.nav-1{
+	color: #3D58A6;
+}
+.active{
+	 color: #EE4036;
+}
+.date-1{ 
+	color: white;
+	background: #3D58A6;
+	width: 56px;
+	height: 56px;
+	font-size: 28px;
+	padding: 15px;
+	/*margin-left: 50px;*/
+
+}
+.info-1 { text-align: center;
+	color: #3D58A6;
+}
+span{
+	color:#808080;
+}
+.info-2{
+	color:#000000;
+	text-align: center;
+}
+.news-1{
+	/*border-width: 2px;
+	border-style: solid;
+	border-color: red;*/
+	/*border: 2px solid red;*/
+	/*margin-top: 50px;
+	margin-left: 110px;
+	margin-right: 110px;
+	margin-bottom: 50px;*/
+	margin:20px 20px;
+	padding-left: 10px;
+}
+/*.news-2{
+	border: 2px solid blue;
+	margin-bottom: 15px;
+	margin:20px 20px;*/
+}
+/*news page*/
+.space-1{
+	font-family: 'ALK Life';
+	margin-bottom: 20px;
+	margin-top: 18px;
+	
+}	
+/*.facebook{
+	border-right: 2px solid #3D58A6; 
+	margin-right: 30px;
+	margin-left: 5px;
+	padding-right: 30px;*/
+
+/*.box{
+	background-color: ivory;
+	height: 200px;
+	width: 200px;
+}*/
+
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	/*margin-bottom: 11px;*/
+}
+.nav-1{
+	display: inline-block;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 22px;
+}
+
+.image-box{
+	display: inline-block;
+	vertical-align: top;
+}
+.article-box{
+	display: inline-block;
+	width: 729px;
+	vertical-align: top;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+/*.space-2{
+  margin-bottom: 25px;
+}*/
+.space-3{
+	margin-left: 25px;
+}
+.info-box{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 150px;
+	margin-right: 70px;
+	margin-top: 100px;
+}
+.divider{
+	background-color: #3D58A6; 
+	height: 27px;
+	width: 2px;
+	display: inline-block;
+}
+.map{
+	width: 700px;
+	height: 750;
+}
+.map-background{
+	background-color: ivory;
+	margin-top: 100px;
+}
+.text-1{
+    color: #000000;
+	margin-left: 70px;
+	margin-top: 130px;
+	margin-bottom: 30px;
+	font-size: 18px;
+}
+.photo-2{
+	display: inline-block;
+	color: #3D58A6;
+	background-color: #F2F2F2; 
+    width: 530px;
+	height: 225px;
+	margin-right: 29px;
+	font-size: 18px;
+	margin-left: 70px;
+	padding: 15px;
+}
+
+.html{
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.soc-icon{
+	margin-top:  50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+.divider-2{
+	background-color: red; 
+	height: 27px;
+	width: 2px;
+	display: inline-block;
+}
+.photo-2 .finger {
+    height: 130px;
+    vertical-align: top;
+    display: inline-block;
+}
+.photo-2 .mobile {
+    height: 130px;
+    vertical-align: top;
+    display: inline-block;
+}
+.photo-2  .p {
+	display: inline-block;
+	width: : 355px;
+	vertical-align: top;
+	font-size: 18px;
+	padding-left: 130px;
+	margin-bottom: 230px;
+}
+.font-relatiuri{
+	font-family: 'ALK Life';
+}
+ 	
+
+
+
